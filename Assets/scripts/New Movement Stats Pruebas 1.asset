@@ -25,5 +25,5 @@ MonoBehaviour:
   GroundAcceleration: 10
   AirAcceleration: 5
   PeakGravity: 1
-  FallingGravity: 1
+  FallingGravity: 10
   DefaultGravity: 1
